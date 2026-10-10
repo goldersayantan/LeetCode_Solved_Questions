@@ -1,27 +1,22 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        int it = 0;
-        int oneCount = 0;
-        int longestOneCount = 0;
         int left = 0;
+        int zeroCount = 0;
+        int longestOneCount = 0;
 
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] == 1) {
-                oneCount++;
-            } else {
-                it++;
-
-                while (it > k) {
-                    if (nums[left] == 0) {
-                        it--;
-                    }
-                    left++;
-                    oneCount--;
-                }
-                oneCount++;
+        for(int right = 0; right < nums.size(); right++)    {
+            if(nums[right] == 0)    {
+                zeroCount++;
             }
-            longestOneCount = max(longestOneCount, oneCount);
+
+            while(zeroCount > k)    {
+                if(nums[left] == 0) {
+                    zeroCount--;
+                }
+                left++;
+            }
+            longestOneCount = std::max(longestOneCount, right - left + 1);
         }
         return longestOneCount;
     }
