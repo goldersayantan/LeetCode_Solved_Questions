@@ -43,6 +43,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/1732-find-the-highest-altitude) |
 ## Longest Increasing Subsequence
