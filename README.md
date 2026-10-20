@@ -12,6 +12,7 @@
 | [0443-string-compression](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
