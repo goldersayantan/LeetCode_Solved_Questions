@@ -127,4 +127,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
