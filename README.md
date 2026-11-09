@@ -157,4 +157,20 @@
 | [1934-confirmation-rate](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/goldersayantan/LeetCode_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
